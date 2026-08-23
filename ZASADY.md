@@ -1,0 +1,81 @@
+# Právní zásady — Komentář k zákonu č. 90/1995 Sb. (jednací řád Poslanecké sněmovny) a k zákonu č. 107/1999 Sb. (jednací řád Senátu)
+
+> Tento soubor je aditivní přehled právních zásad vytěžených výhradně z místních pramenů tohoto repozitáře — z doslovného znění obou komentovaných zákonů (kapitoly [01](01-jednaci-rad-ps-1.md)–[05](05-jednaci-rad-senatu-3.md)). Složka [judikatura/](judikatura/) je zatím **prázdná** a bude doplněna strojově v navazujícím kroku; dokud se tak nestane, tento dokument žádnou judikaturu neuvádí ani nevymýšlí — zásady jsou podloženy výhradně doslovnými citacemi zákonného textu. Nezasahuje do existujících citací v komentáři a nic z nich nenahrazuje ani nemaže.
+
+## Metoda
+
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře, konkrétně kapitoly 01–05 obsahující doslovná znění zákona č. 90/1995 Sb. (dále jen „JŘPS“) a zákona č. 107/1999 Sb. (dále jen „JŘS“). Jde o **kombinovaný komentář dvou zákonů** — každá zásada je proto pokud možno dokládána paralelně z obou předpisů, aby vynikla jejich systematická příbuznost i případné odlišnosti (zejména v postavení Senátu, který na rozdíl od Sněmovny nevyslovuje důvěru vládě). Odkazy na e-Sbírku slouží výhradně k ověření identity a aktuálního veřejného znění ustanovení, nikoli jako další obsahový zdroj.
+
+**Oficiální znění komentovaných předpisů:** [90/1995 Sb.](https://e-sbirka.gov.cz/sb/1995/90) · [107/1999 Sb.](https://e-sbirka.gov.cz/sb/1999/107)
+
+## Obsah
+
+1. [Autonomie komor](#1-autonomie-komor)
+2. [Veřejnost jednání a její meze](#2-veřejnost-jednání-a-její-meze)
+3. [Většinové rozhodování s ochranou menšiny a opozice](#3-většinové-rozhodování-s-ochranou-menšiny-a-opozice)
+4. [Imunitní procedury komor](#4-imunitní-procedury-komor)
+5. [Kontrola vlády Poslaneckou sněmovnou](#5-kontrola-vlády-poslaneckou-sněmovnou)
+
+---
+
+### 1. Autonomie komor
+
+**Zakotvení:** [§ 1 JŘPS](https://e-sbirka.gov.cz/sb/1995/90#par_1), [§ 1 JŘS](https://e-sbirka.gov.cz/sb/1999/107#par_1)
+
+Oba zákony vycházejí z čl. 40 Ústavy, který jednacím řádům svěřuje úpravu podrobností jednání komor a jejich orgánů. Zákon však komorám zároveň ponechává vlastní normotvorný prostor k dotvoření vnitřních poměrů: § 1 odst. 2 JŘPS stanoví, že „Sněmovna upravuje v rámci tohoto zákona usnesením své vnitřní poměry a podrobnější pravidla jednání Sněmovny a jejích orgánů“. Toto ustanovení je normativním jádrem zásady autonomie komory — Sněmovna (a analogicky Senát) si smí usnesením upravit organizační a jednací podrobnosti (jednací řády výborů, volební řády apod.), pokud se nedostane do rozporu se zákonem samotným ani jej nenahradí v otázkách, které si zákon vyhrazuje sobě.
+
+Autonomie se neomezuje na vnitřní organizaci. Sama definice předmětu zákona v § 1 odst. 1 JŘPS zahrnuje vedle vnitřních poměrů i „styky Sněmovny navenek“ — tedy zásadu, že komora si sama upravuje i způsob svého vystupování vůči jiným orgánům a veřejnosti, v mezích svěřených jí Ústavou. Senát tuto autonomii vykonává obdobně: § 1 odst. 1 JŘS stanoví, že „Jednací řád Senátu upravuje postavení senátorů, senátorských klubů, orgánů a funkcionářů Senátu, pravidla jednání Senátu a jeho orgánů.“ a Senátu náleží stejné oprávnění upravit si usnesením vlastní vnitřní poměry v mezích zákona.
+
+Zásada autonomie komor prostupuje celou zbývající úpravu: volba funkcionářů, ustavení výborů a komisí, jednací řád vyšetřovací komise (§ 48 JŘPS) i organizace výborů Senátu jsou vždy provedeny primárně zákonem, avšak s prostorem pro vlastní usnesení komory tam, kde zákon podrobnosti výslovně nestanoví. Praktickým důsledkem je, že spory o výklad procedurálních otázek, které zákon neřeší výslovně, se řeší nejprve pohledem na vlastní usnesení komory, a teprve v jeho mezích analogií k obecným zásadám jednacího řádu.
+
+### 2. Veřejnost jednání a její meze
+
+**Zakotvení:** [§ 56 JŘPS](https://e-sbirka.gov.cz/sb/1995/90#par_56), [§ 52 JŘS](https://e-sbirka.gov.cz/sb/1999/107#par_52), [§ 90 JŘS](https://e-sbirka.gov.cz/sb/1999/107#par_90)
+
+Veřejnost jednání komor je výslovným pravidlem, nikoli jen odvozeným ústavním principem. § 56 odst. 1 JŘPS stanoví: „Schůze Sněmovny je zpravidla veřejná. Na návrh vlády nebo poslance se může Sněmovna usnést, že schůze nebo její část je neveřejná, zejména jsou-li na pořad schůze zařazeny utajované otázky související s obranou nebo bezpečností státu nebo jiné závažné utajované skutečnosti. Projednávání návrhu zákona o státním rozpočtu, návrhu státního závěrečného účtu, návrhů daňových zákonů a návrhů zákonů o poplatcích je vždy veřejné.“ Ustanovení tak kombinuje obecné pravidlo veřejnosti s taxativně omezenou možností výjimky (neveřejnost je vázána na usnesení a typicky na utajované skutečnosti obranné či bezpečnostní povahy) a s absolutní výjimkou z výjimky — fiskální zákonodárství (rozpočet, státní závěrečný účet, daně, poplatky) nelze prohlásit za neveřejné za žádných okolností.
+
+Senát přejímá tutéž konstrukci téměř doslovně. § 52 odst. 1 JŘS stanoví: „Schůze Senátu je veřejná. Na návrh vlády nebo senátora se může Senát usnést, že schůze nebo její část je neveřejná, zejména jsou-li na pořad schůze zařazeny utajované otázky související s obranou nebo bezpečností státu nebo jiné závažné utajované skutečnosti. Projednávání návrhů zákonů a zákonných opatření Senátu je vždy veřejné.“ Absolutní výjimkou z možnosti neveřejnosti je zde legislativní agenda Senátu jako taková, obdobně jako u Sněmovny fiskální zákonodárství — obě komory tak chrání před vyloučením veřejnosti především jádro své zákonodárné funkce.
+
+Zásada veřejnosti se promítá i do nižší úrovně orgánů komory. Podle § 90 JŘS „Schůze výboru jsou veřejné, nestanoví-li tento zákon jinak nebo neusnese-li se výbor, že schůze nebo její část je neveřejná. Řízení v disciplinárních věcech je vždy neveřejné.“ Zde je patrná zrcadlová konstrukce k plenárním schůzím: pravidlo veřejnosti, výjimka na základě usnesení orgánu a zákonem kogentně stanovená neveřejnost u citlivé kategorie věcí (zde disciplinárních řízení, u pléna naopak povinná veřejnost fiskálních věcí) — ukazuje to, že zákonodárce používá týž vzorec *pravidlo — fakultativní výjimka usnesením — kogentní mez* systematicky napříč různými úrovněmi jednání obou komor.
+
+Meze veřejnosti dále odstupňují okruh osob s přístupem na neveřejnou schůzi (automaticky prezident republiky a členové komory, jinak jen se souhlasem komory) a u schůzí neveřejných z důvodu utajovaných skutečností vyžadují bezpečnostní oprávnění podle zvláštního zákona. Zásada veřejnosti tak není absolutní, ale je chráněna vícevrstevně: obecným pravidlem, procesní podmínkou výjimky (usnesení, nikoli jednostranné rozhodnutí předsedajícího) a kogentní nemožností výjimky u vybraných, ústavně nejcitlivějších agend.
+
+### 3. Většinové rozhodování s ochranou menšiny a opozice
+
+**Zakotvení:** [§ 70 JŘPS](https://e-sbirka.gov.cz/sb/1995/90#par_70), [§ 40 JŘPS](https://e-sbirka.gov.cz/sb/1995/90#par_40), [§ 92 JŘS](https://e-sbirka.gov.cz/sb/1999/107#par_92), [§ 48 JŘPS](https://e-sbirka.gov.cz/sb/1995/90#par_48)
+
+Základním rozhodovacím principem obou komor je většinové hlasování, odstupňované podle závažnosti věci. § 70 JŘPS stanoví kaskádu kvalifikovaných většin pro nejzávažnější usnesení: „Souhlasu nadpoloviční většiny všech poslanců je dále třeba při hlasování Sněmovny o návrhu zákona zamítnutého Senátem,10) při hlasování Sněmovny o zákonu vráceném prezidentem republiky11) a při hlasování Sněmovny o vyslovení nedůvěry vládě.12)“ Čím závažnější je politický nebo ústavní dopad rozhodnutí (přehlasování Senátu, přehlasování veta prezidenta republiky, vyslovení nedůvěry vládě), tím širší politický konsenzus (nadpoloviční většina *všech*, nikoli jen přítomných poslanců) zákon vyžaduje — jde o vestavěnou pojistku proti nahodilým rozhodnutím při nízké účasti.
+
+Většinové rozhodování je systematicky doprovázeno procedurami chránícími menšinu a opozici. § 40 odst. 2 JŘPS zakotvuje institut zpravodaje menšiny výboru: „Menšina výboru, kterou tvoří alespoň jedna pětina všech členů výboru, může určit pro jednání výboru svého zpravodaje, který podá výboru oponentní zprávu menšiny výboru … takovou zprávu může menšina výboru předložit Sněmovně.“ Menšina tak i po prohraném hlasování ve výboru zachovává právo předložit vlastní, oponentní stanovisko přímo plénu — většina jí v tom nemůže zabránit. Senát upravuje analogický institut s přísnějším kvorem: § 92 odst. 2 JŘS stanoví, že „Menšina výboru, kterou tvoří alespoň jedna třetina členů výboru, může určit pro jednání výboru svého zpravodaje, který podá výboru oponentní zprávu menšiny výboru; takovou zprávu může menšina výboru předložit Senátu.“ Rozdílné kvorum (pětina u Sněmovny, třetina u Senátu) odráží odlišnou velikost a povahu obou komor, princip ochrany menšinového stanoviska je však shodný.
+
+Ochrana opozice se projevuje i v možnosti iniciovat kontrolní nástroje mimo vůli vládní většiny. § 48 odst. 1 JŘPS zakotvuje: „Na návrh nejméně jedné pětiny všech poslanců může Sněmovna zřídit pro vyšetření věci veřejného zájmu vyšetřovací komisi.“ Nejsilnější kontrolní nástroj Sněmovny vůči veřejnému dění je tak dostupný již kvalifikované menšině poslanců — postačuje jedna pětina, nikoli většina —, což brání vládní většině v blokování vyšetření věci veřejného zájmu pouhým nezájmem hlasovat pro jeho zřízení.
+
+Většinové rozhodování a ochrana menšiny tak nejsou dvě oddělené zásady, ale dvě strany téhož institucionálního uspořádání: většina rozhoduje s konečnou platností, avšak zákon jí odnímá možnost menšinu z rozhodovacího procesu zcela vyloučit — menšina má vždy garantovaný prostor formulovat a předložit odlišné stanovisko nebo iniciovat kontrolní mechanismus, i když je následně přehlasována.
+
+### 4. Imunitní procedury komor
+
+**Zakotvení:** [§ 12 JŘPS](https://e-sbirka.gov.cz/sb/1995/90#par_12), [§ 13 JŘS](https://e-sbirka.gov.cz/sb/1999/107#par_13)
+
+Poslanecká i senátorská imunita ve vztahu k trestnímu stíhání je procesně provedena téměř identickou konstrukcí v obou zákonech, což odráží společný ústavní základ (imunita poslanců a senátorů podle Ústavy). § 12 odst. 1 JŘPS stanoví: „Žádost příslušného orgánu o vyslovení souhlasu Sněmovny k trestnímu stíhání poslance, jakož i oznámení o zadržení poslance při spáchání trestného činu nebo bezprostředně poté, musí obsahovat zejména vymezení skutku, o který jde, a jeho předpokládanou právní kvalifikaci.“ Zákon tak podmiňuje projednatelnost žádosti nebo oznámení jejich obsahovou určitostí — komora musí být schopna posoudit věc meritorně, nikoli jen formálně.
+
+Procedura se dále štěpí na dvě větve podle naléhavosti situace. § 12 odst. 2 JŘPS: „Předseda Sněmovny neprodleně rozhodne, zda vysloví souhlas s odevzdáním zadrženého poslance soudu, a svoje stanovisko sdělí bez odkladu příslušnému orgánu. Současně postoupí žádost nebo oznámení podle předchozího odstavce mandátovému a imunitnímu výboru k projednání a podání zprávy s návrhem Sněmovně. O takové žádosti nebo oznámení rozhodne Sněmovna na své první následující schůzi usnesením, které zašle příslušnému orgánu do pěti dnů od jeho přijetí.“ U zadrženého poslance tak rozhoduje neprodleně a prozatímně předseda Sněmovny sám (rychlost situace to vyžaduje), zatímco konečné slovo o souhlasu s trestním stíháním jako takovým má vždy Sněmovna jako celek po projednání ve specializovaném orgánu — mandátovém a imunitním výboru.
+
+Senát tuto dvoustupňovou konstrukci přejímá téměř doslovně, včetně terminologie. § 13 odst. 2 a 3 JŘS: „Obdrží-li předseda Senátu žádost o souhlas s trestním stíháním senátora, postoupí ji mandátovému a imunitnímu výboru. Obdrží-li předseda Senátu oznámení o zadržení senátora, rozhodne neprodleně, zda dává či nedává souhlas k odevzdání zadrženého senátora soudu... Mandátový a imunitní výbor projedná žádost o souhlas s trestním stíháním senátora, popřípadě oznámení o zadržení senátora a podá o nich Senátu zprávu s návrhem na rozhodnutí. Na své první následující schůzi pak rozhodne Senát usnesením o vyslovení souhlasu s trestním stíháním senátora... a to s konečnou platností.“ Shodně jako u Sněmovny jde o rozhodnutí s konečnou platností, bez opravného prostředku — imunitní rozhodnutí komory je posledním slovem ve věci přípustnosti trestního stíhání jejího člena.
+
+Společným jmenovatelem imunitních procedur obou komor je tedy: (i) požadavek obsahové určitosti žádosti/oznámení, (ii) oddělené, rychlé předběžné rozhodnutí předsedy komory u zadrženého člena, (iii) meritorní projednání specializovaným mandátovým a imunitním výborem a (iv) konečné, nenapadnutelné usnesení komory jako celku. Tato procedura je institucionálním vyjádřením rovnováhy mezi ochranou svobodného výkonu mandátu (imunita) a požadavkem, aby komora nebyla útočištěm před trestní odpovědností (souhlas komory není absolutní překážkou, jen podmínkou zahájení stíhání).
+
+### 5. Kontrola vlády Poslaneckou sněmovnou
+
+**Zakotvení:** [§ 50 JŘPS](https://e-sbirka.gov.cz/sb/1995/90#par_50), [§ 110 JŘPS](https://e-sbirka.gov.cz/sb/1995/90#par_110), [§ 83 JŘPS](https://e-sbirka.gov.cz/sb/1995/90#par_83), [§ 55 JŘPS](https://e-sbirka.gov.cz/sb/1995/90#par_55), [§ 12 JŘS](https://e-sbirka.gov.cz/sb/1999/107#par_12)
+
+Kontrola výkonné moci je zásadou, v níž se postavení obou komor nejvýrazněji rozchází. Sněmovna disponuje plným instrumentářem parlamentní odpovědnosti vlády: § 50 odst. 1 písm. k) JŘPS řadí mezi její působnost pravomoc „kontrolovat činnost vlády, jednat o důvěře vládě a usnášet se na vyslovení nedůvěry vládě“. Jde o generální klauzuli kontrolní funkce Sněmovny, kterou dále konkretizují jednotlivé nástroje — interpelace, projednávání odpovědí vlády, a samotné hlasování o důvěře či nedůvěře.
+
+Individuálním nástrojem kontroly je interpelace. § 110 odst. 1 JŘPS stanoví: „Každý poslanec má právo interpelovat vládu nebo její členy ve věcech jejich působnosti.“ Podání je pak podle odst. 2 dvojí — ústní na schůzi Sněmovny, nebo písemné prostřednictvím předsedy Sněmovny. Právo interpelovat náleží každému jednotlivému poslanci (nikoli jen klubu nebo skupině), je však věcně omezeno na záležitosti spadající do působnosti vlády nebo konkrétního jejího člena — jde tedy o kontrolní nástroj s širokým osobním, ale vymezeným věcným rozsahem.
+
+Vztah důvěry funguje obousměrně. Vedle práva Sněmovny vyslovit nedůvěru z vlastní iniciativy (§ 84 JŘPS) může sama vláda spojit projednání svého návrhu zákona s otázkou důvěry: § 83 odst. 2 JŘPS stanoví, že „Vláda je oprávněna žádat, aby Sněmovna skončila projednávání vládního návrhu zákona do tří měsíců od jeho předložení, pokud s tím spojí žádost o vyslovení důvěry.“ Tím vláda získává procesní páku k urychlení legislativního procesu výměnou za riziko, že neúspěch návrhu bude zároveň vyslovením nedůvěry. Doplňkovým nástrojem osobní kontroly je § 55 JŘPS: „Usnese-li se na tom Sněmovna, je člen vlády povinen dostavit se osobně na schůzi Sněmovny“ — bez osobní účasti dotčeného člena vlády by řada kontrolních mechanismů (interpelace, vysvětlení) ztrácela reálnou účinnost.
+
+Senát tento soubor nástrojů **nemá** — nevyslovuje důvěru ani nedůvěru vládě a neprojednává vládní legislativu spojenou s otázkou důvěry (to je vyhrazeno výlučně Sněmovně jako komoře odpovědné za kontinuitu vlády). Kontrolní funkce Senátu vůči exekutivě se realizuje v užší podobě prostřednictvím individuálního informačního práva senátora: § 12 odst. 1 a 2 JŘS: „Senátor je oprávněn požadovat od členů vlády, vedoucích správních úřadů a orgánů územní samosprávy informace a vysvětlení potřebná pro výkon své funkce.“ … „Informace a vysvětlení jsou členové vlády, vedoucí správních úřadů a orgánů územní samosprávy povinni poskytnout senátorovi nejpozději do 30 dnů“ Jde o obdobu § 11 JŘPS pro Sněmovnu, avšak bez navazujícího kolektivního mechanismu interpelace a vyslovení nedůvěry — asymetrie mezi komorami zde přímo odráží jejich odlišné ústavní postavení vůči vládě.
+
+### Vztah zásad a právních modalit
+
+Zásady působí jako interpretační a systematizační vodítka napříč oběma zákony — samy neukládají, kdo co musí, nesmí či smí; to činí jednotlivé normy prostřednictvím právních modalit (příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí). Systematický rozbor modalit napříč JŘPS i JŘS podává doprovodný dokument [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md); vztah je obousměrný — modality zásady provádějí a zásady jsou měřítkem jejich výkladu.
