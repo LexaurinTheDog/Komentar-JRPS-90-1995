@@ -10,15 +10,18 @@ Začněte [úvodem](00-uvod.md) a [rejstříkem ustanovení](INDEX.md).
 
 | Soubor | Obsah |
 |---|---|
-| [00](00-uvod.md) | Úvod — kontext, klíčové instituty, metoda |
-| [01](01-jednaci-rad-ps-1.md) | Jednací řád Poslanecké sněmovny I (§ 1–106) |
-| [02](02-jednaci-rad-ps-2.md) | Jednací řád Poslanecké sněmovny II (§ 107–129) |
+| [00](00-uvod.md) | Úvod — čl. 40 Ústavy, autonomie komor, metoda |
+| [01](01-jednaci-rad-ps-1.md) | JŘ Poslanecké sněmovny I — orgány, kluby, jednání, hlasování |
+| [02](02-jednaci-rad-ps-2.md) | JŘ Poslanecké sněmovny II — zákonodárný proces, interpelace |
+| [03](03-jednaci-rad-senatu-1.md) | JŘ Senátu I — mandát, orgány, jednání |
+| [04](04-jednaci-rad-senatu-2.md) | JŘ Senátu II — návrhy zákonů, smlouvy, evropská agenda, ústavní žaloba |
+| [05](05-jednaci-rad-senatu-3.md) | JŘ Senátu III — petice, zvláštní procedury, závěrečná ustanovení |
 
 Doplňkové soubory: [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) (tisky 966/I a 47/III), [ZASADY.md](ZASADY.md), [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), [HLOUBKOVY-VYKLAD.md](HLOUBKOVY-VYKLAD.md), [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md), [judikatura/](judikatura/README.md).
 
 ## Rozsah
 
-- **153 paragrafových jednotek**; u každého §: doslovné znění, výklad a sekce F. Kazuistika / G. Protiargumenty a rizika / H. Praktický závěr
+- **340 paragrafových jednotek napříč oběma zákony**; u každého §: doslovné znění, výklad a sekce F. Kazuistika / G. Protiargumenty a rizika / H. Praktický závěr
 
 ## Metoda
 

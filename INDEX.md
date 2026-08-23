@@ -1,6 +1,6 @@
 # Rejstřík ustanovení
 
-Komentář k jednacím řádům komor Parlamentu. Odkazy vedou do kapitol komentáře.
+Kombinovaný komentář k jednacím řádům komor (90/1995 a 107/1999 Sb.). Odkazy vedou do kapitol komentáře.
 
 | Ustanovení | Kapitola |
 |---|---|
